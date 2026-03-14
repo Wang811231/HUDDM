@@ -40,3 +40,14 @@ For inquiries regarding collaboration or licensing (patent pending), please cont
 ✉️ wangranho@126.com
 
 The first system to achieve algorithmic zero-latency fault detection—validated by over one million test runs.
+
+autonomous-driving
+fault-detection
+zero-latency
+safety-critical
+simulation-testing
+autonomous-vehicles
+self-driving
+adas
+real-time-systems
+verification
