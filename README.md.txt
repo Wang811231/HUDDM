@@ -1,4 +1,4 @@
-HUDDM architecture achieves zero-latency fault detection in autonomous driving simulations, verified through 1 million+ randomized tests covering 8 fault modes with 100% pass rate.
+First architecture to achieve algorithm-level zero-latency fault detection in autonomous driving, proven by extensive simulation (1M+ tests, 8 fault modes, 100% success rate)
 ⚠️ The core algorithm is protected by a pending patent and is not​ included here. Only test descriptions and aggregated results are provided.
 
 Fault Generation Method
